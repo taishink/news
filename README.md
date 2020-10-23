@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Новость дня: McDonald's обзавелась искусственным интеллектом
 
-You can use the [editor on GitHub](https://github.com/taishink/news/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Branching](mak1.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Сеть ресторанов быстрого питания McDonald's приобретает израильского разработчика технологий искусственного интеллекта Dynamic Yield Ltd. Вот это новость!
 
-### Markdown
+Об этом сообщает новости CNN.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Сумма сделки не называется, однако, по данным новости The Wall Street Journal, она составляет порядка 300 млн долларов.
 
-```markdown
-Syntax highlighted code block
+Это первое приобретение McDonalds за последние несколько лет и крупнейшее за последние два десятилетия.
 
-# Header 1
-## Header 2
-### Header 3
+## Від Касира До Бізнесмена
 
-- Bulleted
-- List
+![Branching](mak2.png)
 
-1. Numbered
-2. List
+IT-стартап Dynamic Yield занимается технологиями, которые позволяют автоматически выбирать контент для показа на экранах в заведениях в зависимости от целого ряда факторов: погоды, времени дня, количества посетителей. Например, как сообщают новости: в жаркий день в электронных меню показываются предложения прохладительных напитков или мороженого.
 
-**Bold** and _Italic_ and `Code` text
+Использование разработки Dynamic Yield позволит корпорации развить индивидуальный подход к клиентам. Новость из McDonald’s: уже протестировал ИИ в нескольких ресторанах в США в 2019 году. После завершения сделки предприятие применит технологию в Drive Thru американских ресторанов, а после 2020 года начнёт внедрять её на других крупнейших международных рынках. Кроме Drive Thru, как мы узнаем из новости - систему предполагается использовать в киосках самостоятельного заказа и приложении McDonald's
 
-[Link](url) and ![Image](src)
-```
+В числе клиентов Dynamic Yield - IKEA, Fendi и Forever 21. Фирма продолжит работу с ними после того, как перейдет в собственность McDonalds, в качестве отдельного подразделения.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Від Зарплати До Капіталу
 
-### Jekyll Themes
+![Branching](mak3.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taishink/news/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Крупные компании все чаще обращаются к цифровым технологиям, особенно мобильным приложениям, чтобы изучить предпочтения своих клиентов и продавать им больше того, что им нравится.
 
-### Support or Contact
+# Ещё одна новость от Новозеландского McDonald’s: Мы заменили игрушки на книги
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ресторан McDonald’s в Новой Зеландии заменил игрушки в детских наборах Happy Meal на книги писателя Роальда Даля.
+
+Каждую неделю в Happy Meal будут вкладывать новую книгу: про Вилли Вонку, про девочку Матильду, про большого доброго великана. Об этой новости, подбробнее читайте на сайте McDonald’s. Эта программа, по мнению маркетологов, должна помочь родителям научить своих детей получать удовольствие от чтения. И это замечательная новость, не так ли?
